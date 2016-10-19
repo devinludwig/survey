@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+}
+
+#color {
+  height: 400px;
+  width: 400px;
+  align-items: center;
+}
