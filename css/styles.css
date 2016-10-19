@@ -13,3 +13,13 @@ h2 {
   width: 400px;
   align-items: center;
 }
+
+body {
+  background-image: url(https://i.ytimg.com/vi/dBC6A2svChE/maxresdefault.jpg);
+  background-size: 200%;
+  background-position: center;
+}
+
+label h1 h2 {
+  color: white;
+}
