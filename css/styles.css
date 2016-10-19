@@ -20,6 +20,6 @@ body {
   background-position: center;
 }
 
-label h1 h2 {
+label, h1, h2 {
   color: white;
 }
